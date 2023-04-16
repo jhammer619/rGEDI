@@ -6,4 +6,4 @@
 	url = https://github.com/caiohamamura/tools
 [submodule "src/gedisimulator"]
 	path = src/gedisimulator
-	url = https://bitbucket.org/caiohamamura/gedisimulator
+	url = https://github.com/jhammer619/gedisimulator.git
